@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![SERVIR: Global](https://img.shields.io/badge/SERVIR-Global-green)](https://servirglobal.net)
 <div align="center">
 <h2> Welcome to the SERVIR Program Github</h2>
 <img src="https://tkms.servirglobal.net/static/training/SERVIR_Logo.png">
