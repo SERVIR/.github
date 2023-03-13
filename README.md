@@ -1,3 +1,6 @@
+<div align="right">
+  <a href="https://servirglobal.net"><img src="https://img.shields.io/badge/SERVIR-Global-green" alt="SERVIR Global" /></a> 
+</div>
 <div align="center">
 <h2> Welcome to the SERVIR Program Github</h2>
 <img src="https://tkms.servirglobal.net/static/training/SERVIR_Logo.png">
