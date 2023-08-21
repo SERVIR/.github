@@ -9,13 +9,12 @@
 <p>A joint initiative of NASA, USAID, and leading geospatial organizations in Asia, Africa, and Latin America, 
   SERVIR partners with countries and organizations to address critical challenges in climate change, 
   food and water security, water-related disasters, land use, and air quality.</p>
-<p>For more information about SERVIR, visit our <a href="https://servirglobal.net">website</a></p>
 </div>
 
 <p>SERVIR aims to implement an inclusive culture of open science, and the overarching NASA Open-Source Science Initiative</p>
 
 <h3>SERVIR Geospatial Information Technology Team</h3>
-<p>The team maintaing this GitHub Organizations is:</p>
+<p>The team maintaing this GitHub Organizations is composed by:</p>
 <ul>
   <li>Francisco Delgado - Geospatial Information Technology Lead</li>
   <li>William Ashmall - Software Development Lead</li>
@@ -23,3 +22,6 @@
   <li>Githika Tondapu - Software Developer</li>
   <li>Alexandre Goberna - Software Developer</li>
 </ul>
+<p>In addition, numerous contributors from regional SERVIR Hubs, NASA Applied Sciences Teams, and contractors are also involved in the development of the applications in this organization.</p>
+<p>Scientific concepts and algorithms implemented through these applications result from extensive collaboration between the SERVIR Science Team at the Science Coordination Office (Huntsville, AL), the SERVIR Regional Hubs, and a wide network of scientific research centers across the globe.</p>
+<p>For more information about SERVIR, visit our <a href="https://servirglobal.net">website</a></p>
