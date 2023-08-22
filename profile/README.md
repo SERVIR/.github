@@ -25,3 +25,14 @@
 <p>In addition, numerous contributors from regional SERVIR Hubs, NASA Applied Sciences Teams, and contractors are also involved in the development of the applications in this organization.</p>
 <p>Scientific concepts and algorithms implemented through these applications result from extensive collaboration between the SERVIR Science Team at the Science Coordination Office (Huntsville, AL), the SERVIR Regional Hubs, and a wide network of scientific research centers across the globe.</p>
 <p>For more information about SERVIR, visit our <a href="https://servirglobal.net">website</a></p>
+
+# Below are some noteworthy repos
+
+All of our source code is opensource and we encourage collaboration and forking.  Please star any repos that you find useful.
+
+| <a href="https://github.com/SERVIR/ClimateSERV2" title="ClimateSERV"><img src="https://sams.servirglobal.net/media/icons/climatesERV_shot_CCxcnqs.png"   /></a> | <a href="https://github.com/SERVIR/AppTemplate2022" title="App Template"> <img src="https://sams.servirglobal.net/media/icons/pexels-photo-196645.jpg"  /></a> | <a href="https://github.com/SERVIR/tkms" title="TKMS"><img src="https://sams.servirglobal.net/media/icons/pexels-photo-1181400.jpeg" /></a> |
+|:-------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+|                                                                                        ClimateSERV                  |                                                   Geospatial Application Template                               |                          Training Knowledge Management System                                          |
+
+
+
