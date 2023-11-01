@@ -27,7 +27,7 @@
 
 <p>Please visit the GitHub pages for the SERVIR Regional Hubs:</p>
 
-| <a href="https://github.com/SERVIR-Amazonia" title="Amazonia"><img height="100px" src="/logos/SERVIR-AMZ-horizontal.png"   /></a> | <a href="https://github.com/servir-mekong" title="South East Asia"> <img height="100px" src="/logos/SERVIR-SEA-horizontal.png"  /></a> | <a href="" title="West Africa"><img height="100px" src="/logos/SERVIR-WA-horizontal.png" /></a> |
+| <a href="https://github.com/SERVIR-Amazonia" title="Amazonia"><img width="250" src="/logos/SERVIR-AMZ-horizontal.png"   /></a> | <a href="https://github.com/servir-mekong" title="South East Asia"> <img width="250" src="/logos/SERVIR-SEA-horizontal.png"  /></a> | <a href="" title="West Africa"><img width="250" src="/logos/SERVIR-WA-horizontal.png" /></a> |
 |:-------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
 |Amazonia|South East Asia|West Africa|
 
