@@ -24,6 +24,13 @@
 </ul>
 <p>In addition, numerous contributors from regional SERVIR Hubs, NASA Applied Sciences Teams, and contractors are also involved in the development of the applications in this organization.</p>
 <p>Scientific concepts and algorithms implemented through these applications result from extensive collaboration between the SERVIR Science Team at the Science Coordination Office (Huntsville, AL), the SERVIR Regional Hubs, and a wide network of scientific research centers across the globe.</p>
+
+<p>Please visit the GitHub pages for the SERVIR Regional Hubs:</p>
+
+| <a href="https://github.com/SERVIR-Amazonia" title="Amazonia"><img height="100px" src="/logos/SERVIR-AMZ-horizontal.png"   /></a> | <a href="https://github.com/servir-mekong" title="South East Asia"> <img height="100px" src="/logos/SERVIR-SEA-horizontal.png"  /></a> | <a href="" title="West Africa"><img height="100px" src="/logos/SERVIR-WA-horizontal.png" /></a> |
+|:-------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+|Amazonia|South East Asia|West Africa|
+
 <p>For more information about SERVIR, visit our <a href="https://servirglobal.net">website</a></p>
 
 # Below are some noteworthy repos
