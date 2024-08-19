@@ -21,6 +21,7 @@
   <li>Lance Gilliland - Systems Engineer</li>
   <li>Githika Tondapu - Software Developer</li>
   <li>Alexandre Goberna - Software Developer</li>
+  <li>Deepak Shah - Software Developer</li>
 </ul>
 <p>In addition, numerous contributors from regional SERVIR Hubs, NASA Applied Sciences Teams, and contractors are also involved in the development of the applications in this organization.</p>
 <p>Scientific concepts and algorithms implemented through these applications result from extensive collaboration between the SERVIR Science Team at the Science Coordination Office (Huntsville, AL), the SERVIR Regional Hubs, and a wide network of scientific research centers across the globe.</p>
